@@ -12,16 +12,10 @@
 > Terminal only accepts ANSI color.<br>
 > Username: Yêu dợ Vy nhứt nhá <3<br>
 > Password: Pham Thuy Vy<br>
-<p align="center">  <a href="https://t.me/realzer0hub"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
  
-## Language</br>
 
- <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
  </div>
  
- ## Logs</br>
-## Screenshot
-![lk](https://i.ibb.co/LNkqyPR/bandicam-2022-04-12-22-11-34-101.jpg)
 
 # Tree
 * [Read now pls](#README)
