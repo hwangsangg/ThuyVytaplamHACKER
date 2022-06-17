@@ -71,7 +71,7 @@ How to use:
 
 git clone https://github.com/hoaan1995/ZxCDDoS/
 cd ZxCDDoS/
-npm i requests
+(npm i requests
 npm i https-proxy-agent
 npm i crypto-random-string
 npm i events
@@ -85,13 +85,9 @@ npm i cluster
 npm i cloudflare-bypasser
 pip3 install -r requirements.txt
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-apt-get install ./google-chrome-stable_current_amd64.deb
-iptables -t mangle -A PREROUTING -s 243.45.216.58-j DROP
-iptables -A INPUT -p udp -m length --length 49 -j DROP
-iptables -A INPUT -p udp -i eth0 ! -s 0.0.0.0/0 --dport 39356 -j DROP
-iptables -A OUTPUT -p udp --dport 5353 -j DROP
+sudo apt-get install ./google-chrome-stable_current_amd64.deb
 ulimit -n 999999
-chmod 777 *
+chmod 777 * )
 python3 c2.py
 ```
 
