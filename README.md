@@ -1,6 +1,6 @@
 <div align=center>
  
-# 🚀 ZxCDDoS: Release v1.4 - Free DDoS Panel 🚀
+# 🚀 ZxCDDoS: Release v1.4 - Nguyen Hoang Sang - Pham Thuy Vy 🚀
 
 <p>
  <img src="https://img.shields.io/github/stars/hoaan1995/ZxCDDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
@@ -10,8 +10,8 @@
 </p>
 
 > Terminal only accepts ANSI color.<br>
-> Username: admin<br>
-> Password: admin<br>
+> Username: Yêu dợ Vy nhứt nhá <3<br>
+> Password: Pham Thuy Vy<br>
 <p align="center">  <a href="https://t.me/realzer0hub"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
  
 ## Language</br>
@@ -20,11 +20,6 @@
  </div>
  
  ## Logs</br>
- - NEW OVH-BEAM METHODS!
- - Hi all, there are fools scam tool github for 20usd
-- Image scammer:
-https://i.ibb.co/R0NDXnc/photo-2022-05-23-03-57-37.jpg
- 
 ## Screenshot
 ![lk](https://i.ibb.co/LNkqyPR/bandicam-2022-04-12-22-11-34-101.jpg)
 
@@ -102,15 +97,7 @@ python3 c2.py
 
 # Credits
 ```sh
-zxcr9999 (Reworked CnC and added some methods .-.)
-SkyWtkhIsBack (Example Panel and L7 methods <3)
-Empfaked (Layer 7 methods <3)
-HyukIsBack (Layer 7 methods <3)
-im-federal (Layer 4 and AMP methods <3)
-R00tS3C (Layer 4 and AMP methods <3)
-forkyyy (LAYER 7 METHODS <3)
-Leeon123 (SPECIAL METHODS <3)
-TheSpeedX (HTTP, SOCKS5, SOCK4 proxies <3)
+Nguyen Hoang Sang
 ```
 
 # TOS:
@@ -122,6 +109,5 @@ remember: you are responsible for the attacks since this tool was created for ed
 
 # CONTACT:
 ```sh
-Telegram: @zxcr9999
-Discord: zxcr9999#1770
+Facebook.com/hwangsangg
 ```
