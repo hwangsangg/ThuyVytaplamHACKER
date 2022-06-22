@@ -70,6 +70,7 @@ sudo apt-get install ./google-chrome-stable_current_amd64.deb
 ulimit -n 999999
 chmod 777 * 
 ```
+
 ```sh
 python3 c2.py
 ```
