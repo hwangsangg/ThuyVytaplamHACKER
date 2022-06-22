@@ -39,17 +39,14 @@ One star = continuously updating multiple methods
 
 # Setup
 CentOS:
-yum install git -y
-yum install golang -y
-yum install perl -y
-yum install python2 -y
-yum install python3 -y
-yum install python3-pip -y
-yum install nodejs -y
-yum install npm -y
+```sh
+yum install git -y && yum install golang -y && yum install perl -y && yum install python2 -y && yum install python3 -y && yum install python3-pip -y && yum install nodejs -y && yum install npm -y
+```
 
 Debain, Ubuntu:
+```sh
 sudo apt-get install git -y && sudo apt-get install golang -y && sudo apt-get install perl -y && sudo apt-get install python3 -y && sudo apt-get install python2 -y && sudo apt-get install python3-pip -y && sudo apt-get install nodejs -y && sudo apt-get install npm -y
+```
 
 How to use: 
 - Recommended in shell of google, azure,...
@@ -60,12 +57,22 @@ cd ThuyVytaplamHACKER
 ```sh
 npm i requests && npm i https-proxy-agent && npm i crypto-random-string && npm i events && npm i fs && npm i net && npm i cloudscraper && npm i request && npm i hcaptcha-solver && npm i randomstring && npm i cluster && npm i cloudflare-bypasser
 ```
+```sh
 pip3 install -r requirements.txt
+```
+```sh
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+```
+```sh
 sudo apt-get install ./google-chrome-stable_current_amd64.deb
+```
+```sh
 ulimit -n 999999
-chmod 777 * )
+chmod 777 * 
+```
+```sh
 python3 c2.py
+```
 
 # Credits
 ```sh
