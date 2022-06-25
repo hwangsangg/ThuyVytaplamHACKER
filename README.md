@@ -53,7 +53,7 @@ How to use:
 - Using vps with high speed will be stronger
 
 ```sh
-git clone https://github.com/hwangsangg/ThuyVytaplamHACKER
+git clone https://github.com/hwangsangg/vy
 ```
 ```sh
 cd ThuyVytaplamHACKER
